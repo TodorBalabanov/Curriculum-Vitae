@@ -1,0 +1,45 @@
+%!TEX encoding = UTF-8 Unicode
+%
+%
+\ProvidesFile{ecven.def}[europecv Bulgarian definitions]
+\def\ecv@currvitaekey{\ecv@utf{Автобиография}}
+% Personal information
+\def\ecv@infosectionkey{\ecv@utf{Лична информация}}
+\def\ecv@namekey{\ecv@utf{Собствено / Бащино / Фамилно}}
+\def\ecv@addresskey{\ecv@utf{Адрес}}
+\def\ecv@telkey{\ecv@utf{Телефон}}
+\def\ecv@mobilekey{\ecv@utf{Мобилен}}
+\def\ecv@faxkey{\ecv@utf{Факс}}
+\def\ecv@emailkey{\ecv@utf{Email}}
+\def\ecv@nationalitykey{\ecv@utf{Националност}}
+\def\ecv@birthkey{\ecv@utf{Рождена дата}}
+\def\ecv@genderkey{\ecv@utf{Пол}}
+% Footer
+\def\ecv@pagekey{\ecv@utf{Страница}}
+\def\ecv@cvofkey{\ecv@utf{Автобиография на}}
+% Language table
+\def\ecv@mothertonguekey{\ecv@utf{Майчин език}}
+\def\ecv@otherlanguageskey{\ecv@utf{Чужди езици}}
+\def\ecv@assesskey{\ecv@utf{Самооценка}}
+\def\ecv@levelkey{\ecv@utf{Европейско ниво}}
+\def\ecv@understandkey{\ecv@utf{Разбиране}}
+\def\ecv@speakkey{\ecv@utf{Говор}}
+\def\ecv@writekey{\ecv@utf{Писане}}
+\def\ecv@listenkey{\ecv@utf{Слушане}}
+\def\ecv@readkey{\ecv@utf{Четене}}
+\def\ecv@interactkey{\ecv@utf{Говорно взаимодействие}}
+\def\ecv@productkey{\ecv@utf{Устно изложение}}
+\def\ecv@langshortdesckey{\ecv@utf{Нива: A1/A2: Базово ползване - B1/B2: Свободно ползване - C1/C2: Професионално ползване}}
+\def\ecv@langfooterkey{\ecv@utf{Common European Framework of Reference (CEF) level}}
+\def\ecv@langlinkkey{\ecv@utf{http://europass.cedefop.europa.eu/en/resources/european-language-levels-cefr}}
+\def\ecv@cefbasickey{\ecv@utf{Основно ползване}}
+\def\ecv@cefindepkey{\ecv@utf{Свободно ползване}}
+\def\ecv@cefprofkey{\ecv@utf{Професионално ползване}}
+\def\ecv@europeanunionkey{\ecv@utf{Европейски съюз}}
+
+% Width of language columns
+\def\ecv@langcola{0.15}
+\def\ecv@langcolb{0.15}
+\def\ecv@langcolc{0.25}
+\def\ecv@langcold{0.25}
+\def\ecv@langcole{0.2}
